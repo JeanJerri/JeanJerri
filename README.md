@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img src="https://profile-counter.glitch.me/JeanJerri/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
@@ -12,24 +18,21 @@
   <a href="https://www.linkedin.com/in/jean-jerri/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
-  <a href="jeanjerry2015@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jeanjerry2015@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
 </div>
 
-###
+## 👨🏾‍💻  Sobre mim</h3>
 
-<h3 align="left">👨🏾‍💻  Sobre mim</h3>
+Sou o Jean Jerri!    
 
-###
+🔭 Já fui estagiário em Engenharia de Dados.  
+🎓 Estou no 4º período do curso de Sistemas de Informação no IFBA.  
+📚 Já concluí uma formação em Backend com Java da ONE e um bootcamp em Backend com Java da Squadra.  
+⚡ Em meu tempo livre sempre busco aprender mais e desenvolver minhas habilidades.  
 
-<p align="left">Sou o Jean Jerri!<br><br>- 🔭 Já fui estagiário em Engenharia de Dados.<br>- 📚 Atualmente curso Sistemas de Informação no IFBA.<br>- 📚 Já concluí uma formação em Backend com Java da ONE e um bootcamp em Backend com Java da Squadra.<br>- ⚡ Em meu tempo livre sempre busco aprender mais e desenvolver minhas habilidades.</p>
-
-###
-
-<h3 align="left">🛠 Linguagens e Tecnologias</h3>
-
-###
+## 🛠 Linguagens e Tecnologias</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -69,31 +72,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
-
+<!--
 <h3 align="left">🔥   Meu Status</h3>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanJerri&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true" height="175" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanJerri&locale=pt-br&hide_title=false&layout=compact&card_width=380&langs_count=10&theme=react&hide_border=true" height="200" alt="languages graph"  />
 </div>
+-->
+
+## 💻   Projetos
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanJerri&locale=pt-br&hide_title=false&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true2" height="400" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeanJerri&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=&hide_border=true" height="175" alt="languages graph"  />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanJerri&locale=pt-br&hide_title=false&card_width=320&langs_count=10&theme=&hide_border=true2" height="400" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/JeanJerri/JeanJerri/output/snake.svg" alt="Snake animation" />
 </div>
 
 ###
-
-### 💻   Projetos
 
 Ao longo do último ano (2024), tive a oportunidade de desenvolver várias habilidades em programação e tecnologia. Abaixo estão alguns projetos que desenvolvi durante esse período:
 
@@ -111,7 +104,7 @@ Este é um projeto Java desenvolvido com Spring Boot e Maven, utilizando o banco
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=bootcampapi&theme=gothan&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=bootcampapi&theme=react&hide_border=true" />
   </a>
 </div>
 
@@ -120,7 +113,7 @@ Participei do Programa de Bolsas (PB) no estúdio de Data & Analytics como estag
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=Compass_UOL&theme=highcontrast&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=Compass_UOL&theme=react&hide_border=true" />
   </a>
 </div>
 
@@ -129,7 +122,7 @@ Este projeto é um conversor de moedas que permite ao usuário converter valores
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=challenge-conversor-de-moeda&theme=dark&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=challenge-conversor-de-moeda&theme=react&hide_border=true" />
   </a>
 </div>
 
@@ -138,7 +131,7 @@ Neste projeto, construí nosso próprio catálogo de livros utilizando Java, Spr
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=challenge-literalura&theme=default&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=challenge-literalura&theme=react&hide_border=true" />
   </a>
 </div>
 
@@ -147,7 +140,7 @@ Neste projeto, desenvolvi uma plataforma de fórum utilizando Java, Spring Boot 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=challenge-forum-hub&theme=graywhite&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=challenge-forum-hub&theme=react&hide_border=true" />
   </a>
 </div>
 
@@ -155,25 +148,17 @@ Neste projeto, desenvolvi uma plataforma de fórum utilizando Java, Spring Boot 
 
 #### Outros Projetos:
 
-#### - [Jogo Número Secreto](https://github.com/JeanJerri/numero-secreto-git)
-
-#### - [Desafio Técnico 1](https://github.com/JeanJerri/DesafioTecnico)
-
-#### - [Desafio Técnico 2](https://github.com/JeanJerri/EstagioDesafioTecnico)
-
-#### - [Front-End MyMoovies](https://github.com/JeanJerri/mymoovies-frontend)
-
-#### - [Back-End MyMoovies](https://github.com/JeanJerri/mymoovies)
+- [Jogo Número Secreto](https://github.com/JeanJerri/numero-secreto-git)
+- [Desafio Técnico 1](https://github.com/JeanJerri/DesafioTecnico)
+- [Desafio Técnico 2](https://github.com/JeanJerri/EstagioDesafioTecnico)
+- [Front-End MyMoovies](https://github.com/JeanJerri/mymoovies-frontend)
+- [Back-End MyMoovies](https://github.com/JeanJerri/mymoovies)
 
   ##
   
-<!-
-###
- 
-<img src="https://raw.githubusercontent.com/JeanJerri/JeanJerri/output/snake.svg" alt="Snake animation" />
-
 ###
 
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeanJerri/JeanJerri/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeanJerri/JeanJerri/output/pacman-contribution-graph.svg">
@@ -183,13 +168,13 @@ Neste projeto, desenvolvi uma plataforma de fórum utilizando Java, Spring Boot 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JeanJerri/count.svg?"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanJerri&radius=16&theme=react&area=true&order=5" height="300" alt="Gafo de Atividade"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeanJerri&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanJerri&locale=pt-br&hide_title=true&card_width=320&langs_count=10&theme=react&hide_border=true" height="400" alt="Gráfico de Linguagens"  />
 </div>
 
 ###
