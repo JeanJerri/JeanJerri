@@ -94,7 +94,7 @@ Ao longo do último ano (2024), tive a oportunidade de desenvolver várias habil
 Este é um projeto Java desenvolvido com Maven e Java 21, utilizando o banco de dados Oracle. A aplicação é executada diretamente no terminal e faz gerenciamento de produtos de uma loja ficticia de tecnologia.
 
 <div align="center">
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/JeanJerri/desafio-app-gerenciamento-agilstore)">
+  <a href="https://github.com/JeanJerri/desafio-app-gerenciamento-agilstore">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=desafio-app-gerenciamento-agilstore&theme=react&hide_border=true" alt="box repositório Gerenciador de Produtos"  />
   </a>
 </div>
