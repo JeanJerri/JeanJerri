@@ -27,9 +27,10 @@
 
 Sou o Jean Jerri!    
 
-🔭 Já fui estagiário em Engenharia de Dados.  
-🎓 Estou no 4º período do curso de Sistemas de Informação no IFBA.  
+🔭 Já fui estagiário em Engenharia de Dados e atuei como Engenheiro de Dados Trainee.  
+🎓 Estou no 5º período do curso de Sistemas de Informação no IFBA.  
 📚 Já concluí uma formação em Backend com Java da ONE e um bootcamp em Backend com Java da Squadra.  
+📚 Atualmente estou estudando em uma formação Full Stack com React e Java da +PraTI.  
 ⚡ Em meu tempo livre sempre busco aprender mais e desenvolver minhas habilidades.  
 
 ### 🛠 Linguagens e Tecnologias</h3>
@@ -99,6 +100,7 @@ Este é um projeto Java desenvolvido com Maven e Java 21, utilizando o banco de 
   </a>
 </div>
 
+<!--
 #### 2. [API de Cadastro de Endereços e Pessoas](https://github.com/JeanJerri/bootcampapi)
 Este é um projeto Java desenvolvido com Spring Boot e Maven, utilizando o banco de dados Oracle. A API permite o cadastro, listagem, atualização e exclusão de endereços vinculados a pessoas.
 
@@ -107,8 +109,8 @@ Este é um projeto Java desenvolvido com Spring Boot e Maven, utilizando o banco
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=bootcampapi&theme=react&hide_border=true" alt="box repositório API de Cadastro de Endereços e Pessoas"  />
   </a>
 </div>
-
-#### 3. [Entregas do Estágio em Engenharia de Dados](https://github.com/JeanJerri/Compass_UOL)
+-->
+#### 2. [Entregas do Estágio em Engenharia de Dados](https://github.com/JeanJerri/Compass_UOL)
 Participei do Programa de Bolsas (PB) no estúdio de Data & Analytics como estagiário em engenharia de dados. Durante o estágio de cinco meses, aprendi diversas tecnologias para nivelamento técnico entre os integrantes das squads. Trabalhei em sprints, realizando entregas quinzenais, aplicando os conhecimentos adquiridos ao longo do programa. Como entrega final, desenvolvemos um datalake durante as sprints 6, 7, 8 e 9, integrando todas as tecnologias abordadas, e criamos um dashboard para análise dos dados armazenados na sprint 10. Obtive também uma sólida compreensão dos serviços da AWS ao longo do estágio.
 
 <div align="center">
@@ -117,7 +119,7 @@ Participei do Programa de Bolsas (PB) no estúdio de Data & Analytics como estag
   </a>
 </div>
 
-#### 4. [Conversor de Moedas](https://github.com/JeanJerri/challenge-conversor-de-moeda)
+#### 3. [Conversor de Moedas](https://github.com/JeanJerri/challenge-conversor-de-moeda)
 Este projeto é um conversor de moedas que permite ao usuário converter valores entre diferentes moedas em tempo real, utilizando uma API para obter as taxas de câmbio atualizadas.
 
 <div align="center">
@@ -126,7 +128,7 @@ Este projeto é um conversor de moedas que permite ao usuário converter valores
   </a>
 </div>
 
-#### 5. [LiterAlura](https://github.com/JeanJerri/challenge-literalura)
+#### 4. [LiterAlura](https://github.com/JeanJerri/challenge-literalura)
 Neste projeto, construí nosso próprio catálogo de livros utilizando Java, Spring Boot, PostgreSQL e a API Gutendex. O objetivo é consumir a API Gutendex, que possui dados de mais de 70 mil livros, e praticar a persistência de dados em um banco de dados relacional. Este projeto é desenvolvido na IDE IntelliJ e oferece cinco opções de interação com o usuário via terminal.
 
 <div align="center">
@@ -135,6 +137,7 @@ Neste projeto, construí nosso próprio catálogo de livros utilizando Java, Spr
   </a>
 </div>
 
+ <!--
 #### 6. [Fórum Hub](https://github.com/JeanJerri/challenge-forum-hub)
 Neste projeto, desenvolvi uma plataforma de fórum utilizando Java, Spring Boot e segurança com Spring Security. O objetivo é criar um ambiente onde usuários autenticados podem criar, listar, atualizar e deletar tópicos relacionados a cursos da Alura, seguindo regras rígidas de autenticação e autorização.
 
@@ -143,16 +146,17 @@ Neste projeto, desenvolvi uma plataforma de fórum utilizando Java, Spring Boot 
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JeanJerri&repo=challenge-forum-hub&theme=react&hide_border=true" alt="box repositório Fórum Hub"  />
   </a>
 </div>
-
+-->
   ##
 
 #### Outros Projetos:
 
-- [Jogo Número Secreto](https://github.com/JeanJerri/numero-secreto-git)
-- [Desafio Técnico 1](https://github.com/JeanJerri/DesafioTecnico)
-- [Desafio Técnico 2](https://github.com/JeanJerri/EstagioDesafioTecnico)
-- [Front-End MyMoovies](https://github.com/JeanJerri/mymoovies-frontend)
-- [Back-End MyMoovies](https://github.com/JeanJerri/mymoovies)
+- [Jogo Número Secreto](https://github.com/JeanJerri/jogo-numero-secreto)
+- [Desafio Técnico](https://github.com/JeanJerri/DesafioTecnico)
+- [Exercícios JavaScript](https://github.com/JeanJerri/exercicios_JS)
+- [Exercícios HTML e CSS](https://github.com/JeanJerri/exercicios_HTML_CSS)
+<!--- [Front-End MyMoovies](https://github.com/JeanJerri/mymoovies-frontend)
+- [Back-End MyMoovies](https://github.com/JeanJerri/mymoovies)-->
 
   ##
   
