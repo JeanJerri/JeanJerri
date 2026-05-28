@@ -98,8 +98,6 @@ Aplicação orientada a terminal (CLI) desenvolvida para controle completo (CRUD
 
 ---
 
-<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/JeanJerri/JeanJerri/output/snake.svg" alt="Snake animation" />
 </div>
--->
