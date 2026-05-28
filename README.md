@@ -17,18 +17,45 @@
 
 ---
 
-## 👨🏾‍💻 Sobre o meu perfil técnico
+## 👨🏾‍💻 Sobre
 
-Sou um profissional de tecnologia focado em projetar, desenvolver e escalar soluções de software de ponta a ponta. Atualmente no 6º período de **Sistemas de Informação no IFBA**, transito com fluidez entre o desenvolvimento de interfaces reativas, a construção de APIs corporativas robustas e a orquestração de pipelines de dados em nuvem. 
+Sou um estudante de tecnologia focado em projetar, desenvolver soluções de software de ponta a ponta. Atualmente no 6º período de **Sistemas de Informação no IFBA**, transito com fluidez entre o desenvolvimento de interfaces reativas, a construção de APIs corporativas robustas e a orquestração de pipelines de dados em nuvem. 
 
 Tenho facilidade de adaptação a novos desafios, visão de negócio voltada para a entrega de valor e utilizo práticas de desenvolvimento auxiliado por Inteligência Artificial (AI-Augmented Development) para otimização de lógica e validação contínua de código.
 
 ---
 
+## 🛠️ Tecnologias e Ferramentas
+
+**Linguagens & Frameworks:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Engenharia de Dados & Nuvem:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Banco de Dados, DevOps & Infraestrutura:**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 ## 🌟 Projetos em Destaque (Engenharia & Arquitetura)
 
-### 🏥 [Progest - Sistema de Gestão de Estoque Hospitalar](https://github.com/JeanJerri/progest-case-study) *(Case Study)*
-Sistema completo e real desenvolvido para solucionar gargalos logísticos em uma rede hospitalar pública (HGVC) composta por múltiplos polos. O projeto englobou desde o levantamento de requisitos até a arquitetura de software, com MVP validado diretamente pela diretoria médica.
+### 🏥 [Progest - Sistema de Gestão de Estoque Hospitalar](https://github.com/progest-hgvc) 
+[Estudo de Caso - Vitrine Técnica](https://github.com/JeanJerri/progest-case-study)
+
+Sistema completo e real desenvolvido para solucionar gargalos logísticos em uma rede hospitalar pública composta por múltiplos polos. O projeto englobou desde o levantamento de requisitos até a arquitetura de software, com MVP validado diretamente pela diretoria médica.
 * **Stack Tecnológico:** **PHP (Laravel)**, **Vue.js**, **MySQL**, **Docker**, **Traefik**.
 * **Arquitetura & Infraestrutura:** Aplicação modularizada com comunicação via API REST. Implementação de proxy reverso com **Traefik** para roteamento dinâmico e renovação autônoma de certificados SSL (Let's Encrypt).
 * **Segurança & Hierarquia:** Desenvolvimento de um controle de rotas e interfaces estrito utilizando o padrão **RBAC (Controle de Acesso Baseado em Papéis)**, mapeando fluxos de permissão para 5 perfis distintos (da diretoria central às farmácias satélites).
@@ -71,31 +98,8 @@ Aplicação orientada a terminal (CLI) desenvolvida para controle completo (CRUD
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-**Linguagens & Frameworks:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Engenharia de Dados & Nuvem:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-**Banco de Dados, DevOps & Infraestrutura:**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/JeanJerri/JeanJerri/output/snake.svg" alt="Snake animation" />
 </div>
-
+-->
